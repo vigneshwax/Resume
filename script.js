@@ -4,7 +4,7 @@ const PHONE = '+919344117877';
 const EMAIL = 'VIGNESHWARAN.OFCL@GMAIL.COM';
 
 // Direct PDF path (served by your site)
-const PDF_PATH = '/resume.pdf';
+const PDF_PATH = '/Resume.pdf';
 const PDF_NAME = 'Vigneshwaran_M_Resume.pdf';
 
 // Theme persistence
@@ -250,3 +250,4 @@ fabMain.addEventListener('pointerdown', () => { pressT = setTimeout(() => { fab.
     }
   });
 })();
+
